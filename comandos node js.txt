@@ -1,0 +1,9 @@
+node js
+
+comandos 
+
+npm start
+npm test
+npm run eject
+cd miniblog
+npm start
